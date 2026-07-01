@@ -1,0 +1,12 @@
+//Sample
+
+{
+    "warehouseId":"WH001",
+    "city":"Chennai",
+    "products":[
+        {
+            "productId":"P101",
+            "quantity":100
+        }
+    ]
+}
